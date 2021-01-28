@@ -25,9 +25,7 @@ The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-pr
 * importers/exporters
 * retailers
 * manufacturers
-* baristas
-
-
+* baristas 
 
 ```javascript
 const test = 0;
@@ -46,8 +44,6 @@ let dropStart = Date.now();
  			}
 		}
 ```
-
-
 
 For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
 
