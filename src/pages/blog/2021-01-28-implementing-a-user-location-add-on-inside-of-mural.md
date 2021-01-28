@@ -27,8 +27,6 @@ This add-on allows members to view another mural member’s location. (Don’t w
 1. Go to the [murally repo](https://github.com/tactivos/murally) and look at the `addons` folder. You can find it at `/murally/src/mural/addons`.
 2. Inside the `addons` folder, you’ll see previously-created add-ons such as dice, cards, and gallery. This is where your new add-ons and their respective folders and files will live. Feel free to explore the included add-ons, many of which might be experimental.
 
-   ![Addons folder directory](/img/addonsfolder.jpg)
-
 ### Part 2: Set up your JavaScript library
 
 As part of our user map project, you’ll need the help of a JavaScript library for interactive maps. There are many options available. For this project, we’ll use [Leaflet](https://leafletjs.com/index.html), a widely-used open source map library.
@@ -57,7 +55,7 @@ Now you can write the actual code for our project inside the **location.js** fil
 
 1. Import the outside files you need into this project:
 
-```js
+```javascript
 import React from  'react';
 // @ts-ignore
 import './leaflet/leaflet.js';
@@ -116,6 +114,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 ```
 
 7. Add our custom map marker
+
+![An arrow pointing to a map marker](/img/custommarker.jpg)
 
 Add the custom map marker that you set up earlier in step 4.
 
