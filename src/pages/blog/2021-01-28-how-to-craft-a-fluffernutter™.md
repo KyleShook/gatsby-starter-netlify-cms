@@ -14,6 +14,8 @@ tags:
 # Fluffernutter Sandwich Recipe
 
 Prep Time: 5 mins
+
+
 Total Time: 5 mins
 
 > This Fluffernutter Sandwich recipe was shared to me by Mary Wright Huber of Worcester, MA. Mary says: I was born in Worcester, MA and grew up in northern CT. I lived along the CT/MA border area until I was 30, when I moved to Tucson, my current home. I certainly did not invent this sandwich. I believe the method is on the container, along with a perennial favorite fudge. Because Fluff is a regional food, as I had my mother (now deceased) start to ship me Fluff shortly after my relocation. She was so amazed in Arizona’s lack of Fluff, that she asked me, ” What do the feed their children?”
