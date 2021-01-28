@@ -27,6 +27,8 @@ This add-on allows members to view another mural member’s location. (Don’t w
 1. Go to the [murally repo](https://github.com/tactivos/murally) and look at the `addons` folder. You can find it at `/murally/src/mural/addons`.
 2. Inside the `addons` folder, you’ll see previously-created add-ons such as dice, cards, and gallery. This is where your new add-ons and their respective folders and files will live. Feel free to explore the included add-ons, many of which might be experimental.
 
+![Addons direction folder](/img/addonsfolder.jpg)
+
 ### Part 2: Set up your JavaScript library
 
 As part of our user map project, you’ll need the help of a JavaScript library for interactive maps. There are many options available. For this project, we’ll use [Leaflet](https://leafletjs.com/index.html), a widely-used open source map library.
