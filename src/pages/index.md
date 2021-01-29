@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Mural developers test blog
+title: MURAL developer blog
 image: /img/mural-team.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Hacking murals.
 mainpitch:
   title: Why Kaldi
   description: >
