@@ -98,8 +98,9 @@ module.exports = {
               // Add additional HTML escapes by providing a mapping
               // of HTML entities and their escape value IE: { '}': '&#123;' }
               escapeEntities: {},
-            }
+            },
           },
+
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
