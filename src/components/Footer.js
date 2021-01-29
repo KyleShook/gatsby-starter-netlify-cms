@@ -25,7 +25,7 @@ const Footer = class extends React.Component {
             <div style={{ maxWidth: '100vw' }} className="columns">
               <div className="column is-4">
                 <section className="menu">
-                  <ul className="menu-list">
+                  <ul className="menu-list has-text-gray-dark">
                     <li>
                       <Link to="/" className="navbar-item">
                         Home
