@@ -8,7 +8,7 @@ featuredimage: /img/addonsfolder.jpg
 tags:
   - code
 ---
-```js
+```javascript
 function MemberMap() {
 	// If geolocation services are available
 	if ('geolocation' in navigator') {
@@ -18,7 +18,7 @@ function MemberMap() {
 
 
 
-```
+```javascript
 import React from  'react';
 // @ts-ignore
 import './leaflet/leaflet.js';
