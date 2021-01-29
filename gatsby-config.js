@@ -8,20 +8,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
-      resolve: `gatsby-transformer-remark`,
-        options: {
-          plugins: [
-            {
-              resolve: 'gatsby-remark-prismjs',
-              options: {
-                classPrefix: "language-",
-                showLineNumbers: true,
-              }
-            }
-          ],
-        },
-      },
-    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -49,6 +35,13 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          {
+            resolve: 'gatsby-remark-prismjs',
+            options: {
+              classPrefix: "language-",
+              showLineNumbers: true,
+            }
+          },
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
