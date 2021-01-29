@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Implementing a user-location add-on inside of MURAL
 date: 2021-01-28T21:46:09.295Z
 description: Creating new add-ons for MURAL
-featuredpost: true
+featuredpost: false
 featuredimage: /img/untitled-mural-•-ks-dev-env-2021-01-19-at-2.21.58-pm.jpg
 tags:
   - add-ons
