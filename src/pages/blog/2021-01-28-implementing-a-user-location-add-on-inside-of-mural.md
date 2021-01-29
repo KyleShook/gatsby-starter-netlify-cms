@@ -57,7 +57,7 @@ Now you can write the actual code for our project inside the **location.js** fil
 
 1. Import the outside files you need into this project:
 
-```javascript
+```js
 import React from  'react';
 // @ts-ignore
 import './leaflet/leaflet.js';
@@ -101,7 +101,7 @@ let memberLocation = L.icon({
 
 5. Create the `map` variable. This links the Leaflet map to the div id `memberMap`. It also disables the zoom buttons on the map and sets the member coordinates and starting zoom level.
 
-```javascript
+```js
 let map = L.map('memberMap', { zoomControl: false }).setView(coords, 6);
 ```
 
