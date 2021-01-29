@@ -22,7 +22,6 @@ module.exports = {
         name: 'pages',
       },
     },
-    
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -30,10 +29,8 @@ module.exports = {
         name: 'images',
       },
     },
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           {
@@ -42,9 +39,18 @@ module.exports = {
               // CSS class suffix to be used for produced `<pre/>` blocks.
               // Default value is "default", which adds "cm-s-default" class.
               // This class name matches
-              theme: "default"
+              theme: "monokai"
             }
-          },
+          }
+        ]
+      }
+    },
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
