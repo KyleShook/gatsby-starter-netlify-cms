@@ -19,7 +19,8 @@ export default class BlogIndexPage extends React.Component {
               boxShadow: '0.5rem 0 0 #f06, -0.5rem 0 0 #f06',
               backgroundColor: '#f06',
               color: 'white',
-              padding: '1rem',
+              padding: '.5rem',
+              marginTop: '5em',
             }}
           >
             Latest Posts
