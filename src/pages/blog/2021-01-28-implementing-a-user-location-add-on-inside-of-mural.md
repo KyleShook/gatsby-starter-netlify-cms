@@ -57,7 +57,7 @@ Now you can write the actual code for our project inside the **location.js** fil
 
 1. Import the outside files you need into this project:
 
-```javascript
+```js
 import React from  'react';
 // @ts-ignore
 import './leaflet/leaflet.js';
