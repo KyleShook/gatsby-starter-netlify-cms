@@ -101,7 +101,7 @@ let memberLocation = L.icon({
 
 5. Create the `map` variable. This links the Leaflet map to the div id `memberMap`. It also disables the zoom buttons on the map and sets the member coordinates and starting zoom level.
 
-```javascript
+```js
 let map = L.map('memberMap', { zoomControl: false }).setView(coords, 6);
 ```
 
