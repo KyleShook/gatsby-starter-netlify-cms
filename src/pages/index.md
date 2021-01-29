@@ -2,7 +2,7 @@
 templateKey: index-page
 title: MURAL developer blog
 image: /img/mural-team.png
-heading: Developers, Developers, Developers
+heading: Developers, Developers, Developers!
 subheading: Hacking murals.
 mainpitch:
   title: The MURAL Way
@@ -13,7 +13,7 @@ mainpitch:
     asynchronously.
 
     ‍
-description: MURAL is the place for you to unlock your team’s collective imagination.‍
+description: "MURAL is the place for you to unlock your team’s collective imagination.‍ "
 intro:
   blurbs: []
   heading: As
