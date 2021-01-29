@@ -1,1 +1,1 @@
-require("codemirror/lib/codemirror.css");
+require("prismjs/themes/prism-tomorrownight.css")
