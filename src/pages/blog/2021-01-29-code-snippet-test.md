@@ -8,6 +8,8 @@ featuredimage: /img/addonsfolder.jpg
 tags:
   - code
 ---
+MURAL enables innovative teams to think and collaborate visually to solve important problems. People benefit from MURAL’s speed and ease of use in creating diagrams, which are popular in design thinking and agile methodologies, as well as tools to facilitate more impactful meetings and workshops.
+
 ```javascript
 function MemberMap() {
 	// If geolocation services are available
@@ -15,8 +17,6 @@ function MemberMap() {
 		// Next step
 }
 ```
-
-
 
 ```javascript
 import React from  'react';
