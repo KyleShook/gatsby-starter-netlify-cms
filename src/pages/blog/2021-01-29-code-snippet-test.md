@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Code snippet test
 date: 2021-01-29T18:19:40.607Z
 description: testing code snippets
-featuredpost: true
+featuredpost: false
 featuredimage: /img/addonsfolder.jpg
 tags:
   - code
