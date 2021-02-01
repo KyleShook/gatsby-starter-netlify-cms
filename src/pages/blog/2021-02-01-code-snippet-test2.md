@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Code snippet test2
-date: 2021-02-02T21:30:24.774Z
+date: 2021-02-02T21:31:11.066Z
 description: testing code snippets
 featuredpost: false
 featuredimage: /img/addonsfolder.jpg
