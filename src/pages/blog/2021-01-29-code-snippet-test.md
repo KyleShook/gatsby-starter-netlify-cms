@@ -3,11 +3,13 @@ templateKey: blog-post
 title: Code snippet test
 date: 2021-01-29T18:19:40.607Z
 description: testing code snippets
-featuredpost: true
+featuredpost: false
 featuredimage: /img/addonsfolder.jpg
 tags:
   - code
 ---
+MURAL enables innovative teams to think and collaborate visually to solve important problems. People benefit from MURAL’s speed and ease of use in creating diagrams, which are popular in design thinking and agile methodologies, as well as tools to facilitate more impactful meetings and workshops.
+
 ```javascript
 function MemberMap() {
 	// If geolocation services are available
@@ -15,8 +17,6 @@ function MemberMap() {
 		// Next step
 }
 ```
-
-
 
 ```javascript
 import React from  'react';
